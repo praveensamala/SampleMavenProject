@@ -7,6 +7,8 @@ public class SampleTests1 {
 	@Test
 	public void testcase01() {
 		System.out.println("*****IN TESTCASE01");
+		System.out.println("username : "+System.getProperty("user"));
+		System.out.println("password : "+System.getProperty("pass"));
 		Assert.assertTrue(true);
 	}
 
