@@ -25,7 +25,7 @@ public class SampleTests4 {
 	@Test
 	public void testcase04() {
 		System.out.println("*****IN TESTCASE04");
-		System.out.println("testing the branch Test02");
+		System.out.println("testing the branch Test03");
 		Assert.assertTrue(true);
 	}
 }
